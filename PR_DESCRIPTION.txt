@@ -1,0 +1,3 @@
+Closes #2
+
+This README adds a central hub for OctoAcme project management documentation, including an overview of core workflows, roles, communication cadence, and QA practices. It also links to each individual process document in the docs/ folder.
